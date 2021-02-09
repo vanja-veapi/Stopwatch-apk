@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\bin\Debug\StopWatch_APK.exe.config
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\bin\Debug\StopWatch_APK.exe
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\bin\Debug\StopWatch_APK.pdb
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.Form1.resources
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.Properties.Resources.resources
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.exe
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.pdb
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\bin\Debug\StopWatch_APK.exe.manifest
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\bin\Debug\StopWatch_APK.application
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.exe.manifest
+C:\Users\user\source\repos\StopWatch_APK\StopWatch_APK\obj\Debug\StopWatch_APK.application
